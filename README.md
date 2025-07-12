@@ -17,7 +17,8 @@ Built using **Python**, **Tkinter**, and lots of love 💖
 
 ## 📸 Screenshots
 
-![Kawaii UI](Screenshot 2025-07-12 224513.png)
+Screenshot 2025-07-12 224513.png
+
 
 ---
 
